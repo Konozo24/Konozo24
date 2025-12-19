@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋🦭
 
-<!--
-**Konozo24/Konozo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ming Wei, a **Diploma in Computer Science** student at **Tunku Abdul Rahman University of Management and Technology**.
 
-Here are some ideas to get you started:
+I am mostly interested in **back-end development**, but I have worked on both **front-end** and **back-end**
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 What I'm Working On / Worked On
+- **Broker Application:** I built an application in **Kotlin** (using Android Studio) to securely manage financial transactions.
+- **API Integration:** I implemented live crypto market data integration using the **CoinGecko API**.
+- **Competitions:** I was a finalist in the **WorldSkills Malaysia Belia (WSMB) 2025** for IT Network for Business Solution.
+<hr>
+
+### 🛠️ Tools & Technologies I Use
+- **Languages:** C++, Java, Python, Kotlin, JavaScript, HTML, CSS
+- **Frameworks:** Spring Boot, React
+- **Tools:** Git, Visual Studio Code, Android Studio, Wix Studio
+- **Databases:** SQL, Firebase Firestore
+<hr>
+
+### 📬 Connect with me
+- **Email:** mingwei12242021@gmail.com
 -->
