@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2F80ED" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Konozo24&style=flat-square&color=2F80ED" alt="Profile views" />
   <img src="https://img.shields.io/badge/Degree-Data%20Science-2F80ED?style=flat-square" />
   <img src="https://img.shields.io/badge/University-TAR%20UMT-2F80ED?style=flat-square" />
 </p>
